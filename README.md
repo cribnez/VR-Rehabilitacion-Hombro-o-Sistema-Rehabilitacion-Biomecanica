@@ -16,7 +16,7 @@ Este estudio presenta un sistema innovador que combina Realidad Virtual (VR) inm
 
 | Registro de Paciente | Menú Principal |
 | :---: | :---: |
-| ![Registro de paciente](images/gui_registro.jpg) | ![Menú principal](images/gui_principal.jpg) |
+| ![Registro de paciente](images/gui_registro.png) | ![Menú principal](images/gui_principal.png) |
 
 ## 🛠️ Instalación y Uso
 
