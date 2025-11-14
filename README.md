@@ -47,17 +47,17 @@ Este trabajo fue aceptado para su publicación. Para más detalles sobre la meto
 ## 🖥️ Vistas del Sistema
 
 <p align="center">
-  <img src="images/gui_analisis.png" width="450" alt="Pantalla de análisis biomecánico">
+  <img src="images/gui_analisis.png" width="450" alt="Detección de puntos anatómicos y cálculo de ángulo">
   <br>
   <em>Pantalla de análisis biomecánico</em>
 </p>
 <p align="center">
-  <img src="images/gui_registro.png" width="450" alt="Pantalla de registro de paciente">
+  <img src="images/gui_registro.png" width="450" alt="Desarrollo de la sesión de rehabilitación">
   <br>
   <em>Pantalla de registro de paciente</em>
 </p>
 <p align="center">
-  <img src="images/gui_principal.png" width="450" alt="Pantalla de menú principal">
+  <img src="images/gui_principal.png" width="450" alt="Entorno virtual del área de  rehabilitación">
   <br>
   <em>Pantalla de menú principal</em>
 </p>
