@@ -35,14 +35,16 @@ Para ejecutar este proyecto localmente, sigue estos pasos:
 
 4.  **Ejecuta la aplicación:**
     ```bash
-    python src/proyecto2.py
+    python src/main.py
     ```
 
 ## 📄 Publicación
 
-Este trabajo fue aceptado para su publicación. Para más detalles sobre la metodología y los resultados del estudio piloto, por favor consulta nuestro artículo:
+Este trabajo fue aceptado recientemente (Noviembre 2025) para su publicación por **Academia Journals** en el congreso de Medellín.
 
-* **[Consulta el artículo aquí](./paper/AbarcaCruzMED287.docx)**
+Para más detalles sobre la metodología y los resultados del estudio piloto, por favor consulta nuestro artículo:
+
+* **[Consulta el artículo aquí](./paper/MED287.docx)**
 
 ## 🖥️ Vistas del Sistema
 
