@@ -38,24 +38,11 @@ Para ejecutar este proyecto localmente, sigue estos pasos:
     python src/proyecto2.py
     ```
 
-## 📄 Publicación y Autores
+## 📄 Publicación
 
 Este trabajo fue aceptado para su publicación. Para más detalles sobre la metodología y los resultados del estudio piloto, por favor consulta nuestro artículo:
 
 * **[Consulta el artículo aquí](./paper/AbarcaCruzMED287.docx)**
-
-### Autores
-
-* Félix Raúl Abarca Cruz
-* Fabian Galindo López
-* Ing. Georgina Hernández Santiz
-* Ing. Dorian Alberto Ibáñez Nangúelú
-* Dr. Christian Roberto Ibáñez Nangúelú
-* LFT. Jocelyn Ittai Aceves Guillén
-* Dra. Diana Paulina Martínez Cancino
-* Dr. José Octavio Vázquez Buenos Aires
-* Dr. Norberto Urbina Brito
-* Jorge Alberto Rodríguez Ramírez
 
 ## 🖥️ Vistas del Sistema
 
@@ -65,12 +52,18 @@ Este trabajo fue aceptado para su publicación. Para más detalles sobre la meto
   <em>Pantalla de análisis biomecánico</em>
 </p>
 <p align="center">
-  <img src="images/gui_registro.jpg" width="450" alt="Pantalla de registro de paciente">
+  <img src="images/gui_registro.png" width="450" alt="Pantalla de registro de paciente">
   <br>
   <em>Pantalla de registro de paciente</em>
 </p>
 <p align="center">
-  <img src="images/gui_principal.jpg" width="450" alt="Pantalla de menú principal">
+  <img src="images/gui_principal.png" width="450" alt="Pantalla de menú principal">
   <br>
   <em>Pantalla de menú principal</em>
 </p>
+
+## 📺 Video de Demostración
+
+Puedes encontrar una explicación completa y una demostración del proyecto en YouTube:
+
+* **[Ver Video] "Sistema de Rehabilitación con Realidad Virtual y Análisis Biomecánico"** (https://www.youtube.com/watch?v=Yelu0DRGfQA&list=PLu3midZfylxQiEslfACPGaZhUpGpTXyyl)
