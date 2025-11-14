@@ -1,0 +1,6 @@
+opencv-python-headless
+mediapipe
+numpy
+Pillow
+PyPDF2
+reportlab
