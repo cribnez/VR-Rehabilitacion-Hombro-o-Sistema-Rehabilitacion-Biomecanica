@@ -2,7 +2,7 @@
 
 Este estudio presenta un sistema innovador que combina Realidad Virtual (VR) inmersiva con análisis biomecánico cuantitativo para mejorar la rehabilitación de lesiones comunes en el hombro, como la tendinitis del manguito rotador.
 
-![Demostración del análisis](images/gui_analisis.png)
+El sistema utiliza un visor **Meta Quest VR** para sumergir a los pacientes en escenarios terapéuticos tipo videojuego, junto con un algoritmo de visión por computadora en **Python** (usando MediaPipe y OpenCV) que analiza grabaciones de video para calcular el **Rango de Movimiento (ROM)** del hombro (Flexión y Abducción).
 
 ## 🌟 Características Principales
 
@@ -11,12 +11,6 @@ Este estudio presenta un sistema innovador que combina Realidad Virtual (VR) inm
 * **Alta Motivación:** Los pacientes en el estudio piloto reportaron mayor motivación y compromiso en comparación con la fisioterapia tradicional.
 * **Gestión de Pacientes:** Incluye una base de datos SQLite para el registro y seguimiento de pacientes.
 * **Reportes en PDF:** Genera reportes automáticos de la sesión de terapia.
-
-## 🖥️ Vistas del Sistema
-
-| Registro de Paciente | Menú Principal |
-| :---: | :---: |
-| ![Registro de paciente](images/gui_registro.png) | ![Menú principal](images/gui_principal.png) |
 
 ## 🛠️ Instalación y Uso
 
@@ -62,3 +56,21 @@ Este trabajo fue aceptado para su publicación. Para más detalles sobre la meto
 * Dr. José Octavio Vázquez Buenos Aires
 * Dr. Norberto Urbina Brito
 * Jorge Alberto Rodríguez Ramírez
+
+## 🖥️ Vistas del Sistema
+
+<p align="center">
+  <img src="images/gui_analisis.png" width="450" alt="Pantalla de análisis biomecánico">
+  <br>
+  <em>Pantalla de análisis biomecánico</em>
+</p>
+<p align="center">
+  <img src="images/gui_registro.jpg" width="450" alt="Pantalla de registro de paciente">
+  <br>
+  <em>Pantalla de registro de paciente</em>
+</p>
+<p align="center">
+  <img src="images/gui_principal.jpg" width="450" alt="Pantalla de menú principal">
+  <br>
+  <em>Pantalla de menú principal</em>
+</p>
