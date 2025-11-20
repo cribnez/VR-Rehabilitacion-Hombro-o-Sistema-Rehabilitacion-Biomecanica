@@ -66,9 +66,11 @@ Para más detalles sobre la metodología y los resultados del estudio piloto, po
 
 ## 📺 Video de Demostración
 
+## 📺 Video de Demostración
+
 <p align="center">
   <a href="https://www.youtube.com/watch?v=Yelu0DRGfQA" target="_blank">
-    <img src="https://img.youtube.com/vi/Yelu0DRGfQA/maxresdefault.jpg" alt="Video Sistema de Rehabilitación con Realidad Virtual y Análisis Biomecánico" width="700">
+    <img src="https://img.youtube.com/vi/Yelu0DRGfQA/hqdefault.jpg" alt="Video Sistema de Rehabilitación con Realidad Virtual y Análisis Biomecánico" width="700">
     <br><em>Haz clic para ver el video: "Sistema de Rehabilitación con Realidad Virtual y Análisis Biomecánico"</em>
   </a>
 </p>
