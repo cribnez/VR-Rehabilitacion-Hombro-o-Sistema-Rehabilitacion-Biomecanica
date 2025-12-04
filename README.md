@@ -44,7 +44,7 @@ Este trabajo fue aceptado recientemente (Noviembre 2025) para su publicación po
 
 Para más detalles sobre la metodología y los resultados del estudio piloto, por favor consulta nuestro artículo:
 
-* **[Consulta el artículo aquí](./paper/MED287.docx)**
+* **[Consulta el artículo aquí](./paper/VR_Biomechanics_ShoulderRehab.pdf)**
 
 ## 🖥️ Vistas del Sistema
 
