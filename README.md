@@ -85,9 +85,3 @@ El documento completo también se encuentra disponible en la carpeta `paper` de 
     <br><em>Sistema de Rehabilitación con Realidad Virtual y Análisis Biomecánico en Tiempo Real para Pacientes con Tendinitis del Manguito Rotador</em>
   </a>
 </p>
-
-<p align="center">
-  <a href="https://www.academiajournals.com/congreso-medellin-2025" target="_blank">
-    📎 <em>Acceso al artículo publicado en Academia Journals Medellín 2025</em>
-  </a>
-</p>
