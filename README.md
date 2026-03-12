@@ -72,14 +72,6 @@ Para más detalles sobre la metodología y los resultados del estudio piloto, po
   </a>
 </p>
 
-## 📄 Publicación
-
-Este trabajo fue aceptado recientemente (Noviembre 2025) para su publicación por **Academia Journals** en el congreso de Medellín.  
-
-Para más detalles sobre la metodología y los resultados del estudio piloto, por favor consulta nuestro artículo:
-
-* **[Consulta el artículo aquí](./paper/VR_Biomechanics_ShoulderRehab.pdf)**
-
 ---
 
 ## 📄 Publicación Académica
