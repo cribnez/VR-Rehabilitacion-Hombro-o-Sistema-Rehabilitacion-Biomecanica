@@ -71,3 +71,31 @@ Para más detalles sobre la metodología y los resultados del estudio piloto, po
     <br><em>Haz clic para ver el video: "Sistema de Rehabilitación con Realidad Virtual y Análisis Biomecánico"</em>
   </a>
 </p>
+
+## 📄 Publicación
+
+Este trabajo fue aceptado recientemente (Noviembre 2025) para su publicación por **Academia Journals** en el congreso de Medellín.  
+
+Para más detalles sobre la metodología y los resultados del estudio piloto, por favor consulta nuestro artículo:
+
+* **[Consulta el artículo aquí](./paper/VR_Biomechanics_ShoulderRehab.pdf)**
+
+---
+
+## 📄 Publicación Académica
+
+Este proyecto ha sido presentado y aceptado en el **Congreso Internacional de Investigación Academia Journals Medellín 2025**.  
+El documento completo también se encuentra disponible en la carpeta `paper` de este repositorio:
+
+<p align="center">
+  <a href="paper/VR_Biomechanics_ShoulderRehab.pdf" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="Artículo en PDF" width="120">
+    <br><em>Sistema de Rehabilitación con Realidad Virtual y Análisis Biomecánico en Tiempo Real para Pacientes con Tendinitis del Manguito Rotador</em>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.academiajournals.com/congreso-medellin-2025" target="_blank">
+    📎 <em>Acceso al artículo publicado en Academia Journals Medellín 2025</em>
+  </a>
+</p>
